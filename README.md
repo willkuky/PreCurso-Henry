@@ -1,2 +1,1 @@
-# PreCurso-Henry
-Este es un repositorio del modulo 2 Precurso de henry
+Este es una prueba de como crear un repositorio
